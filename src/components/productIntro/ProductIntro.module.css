@@ -1,0 +1,11 @@
+.price {
+    width: 100%;
+    background-color: #fef9ee;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    font-size: 18px;
+}
+.num {
+    font-size: 28px;
+    color: #c00000;
+}

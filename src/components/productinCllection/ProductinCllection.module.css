@@ -1,0 +1,23 @@
+.slideImg{
+    width: 180px;
+    height: 492px;
+}
+.titleSmall{
+    display: block;
+    width: 240px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.titleLarge{
+    display: block;
+    width: 480px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.content{
+    margin-top: 30px;
+    padding: 20px;
+    background: #fff;
+}
